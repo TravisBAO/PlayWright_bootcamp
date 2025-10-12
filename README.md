@@ -1,33 +1,33 @@
 ## 🎯 Playwright 学习大纲（面向找工作）
 ### 🟢 阶段 1：基础入门（1~2 周）
 
-目标：能写出简单的 Web 自动化脚本
+目标：能写出简单的 Web 自动化脚本 - ***Done 2025-Oct-12***
 
- - 环境搭建 - **Done 2025-Oct-11**
+ - 环境搭建 - ***Done 2025-Oct-11***
 
-     - Node.js / npm 基础
+     - ~~Node.js / npm 基础~~
 
-     - 安装 Playwright (npm init playwright@latest)
+     - ~~安装 Playwright (npm init playwright@latest)~~
 
-Note: use the config file to enable the trace view
+***Note: use the config file to enable the trace view***
 
- - 基础操作
+ - 基础操作 - ***Done 2025-Oct-12***
 
-     - 打开浏览器、访问页面
+     - ~~打开浏览器、访问页面~~
 
-     - 元素选择器（CSS、XPath、Text、Role）
+     - ~~元素选择器（CSS、XPath、Text、Role）~~
 
-     - 基本操作：click、fill、type、check、selectOption
+     - ~~基本操作：click、fill、type、check、selectOption~~
 
  - 断言（Assertions）
 
-     - expect().toHaveText()
+     - ~~expect().toHaveText()~~
 
-     - expect().toBeVisible()
+     - ~~expect().toBeVisible()~~
 
- - 录制脚本（Playwright Codegen）
+ - ~~录制脚本（Playwright Codegen）~~
 
-✅ 输出成果：能写一个简单的脚本，比如自动登录一个 demo 网站并验证标题。
+~~✅ 输出成果：能写一个简单的脚本，比如自动登录一个 demo 网站并验证标题。~~
 
 ### 🟡 阶段 2：测试框架进阶（2~3 周）
 
