@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "目标：能写出简单的 Web 自动化脚本",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -34,10 +34,23 @@
 目标：编写结构化、可维护的测试
 
  - Playwright Test Runner
-
-     - test.describe、test.beforeEach、test.afterEach
-
-     - test fixtures 的使用
+   - Hooks
+     - test.beforeEach、test.afterEach
+     - test.beforeAll, test.afterAll
+   - Groups
+     - test.describe 
+   - Annootations
+     - only
+     - skip
+     - skip with condition
+     - fail
+     - fixme
+     - slow
+   - Tags
+     - @smoke
+     - @reg
+   
+   - test fixtures 的使用
 
  - 页面对象模式（POM）
 
