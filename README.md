@@ -117,4 +117,4 @@
 
  - 阶段 4：2~3 周
 
-👉 总计：2~3 个月（每天 1~2 小时学习 + 实践），你就能达到新西兰招聘中 “Automation QA with Playwright” 的要求。
+👉 总计：2 ~ 3 个月（每天 1~2 小时学习 + 实践），你就能达到新西兰招聘中 “Automation QA with Playwright” 的要求。
