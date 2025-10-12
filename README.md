@@ -3,11 +3,13 @@
 
 目标：能写出简单的 Web 自动化脚本
 
- - 环境搭建
+ - 环境搭建 - **Done 2025-Oct-11**
 
      - Node.js / npm 基础
 
      - 安装 Playwright (npm init playwright@latest)
+
+Note: use the config file to enable the trace view
 
  - 基础操作
 
